@@ -9,10 +9,15 @@ Build Instructions
 ![raspberrypi-b-plus-case](images/raspberrypi-b-plus-case.png)
 
     green:	vector engraving
-    black:	raster encraving
+    black:	raster engraving
     red:	cut
 
 Detailed instructions coming soon.
+
+Visicut color-mapping
+---------------------
+
+If you use Visicut (https://github.com/t-oster/VisiCut) you can find a working color-mapping under `visicut/raspberrypi-b-plus-case.xml`
 
 License
 -------
