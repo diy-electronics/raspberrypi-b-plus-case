@@ -8,11 +8,9 @@ Build Instructions
 
 ![raspberrypi-b-plus-case](images/raspberrypi-b-plus-case.png)
 
-green:	vector engraving
-
-black:	raster encraving
-
-red:	cut
+    green:	vector engraving
+    black:	raster encraving
+    red:	  cut
 
 Detailed instructions coming soon.
 
