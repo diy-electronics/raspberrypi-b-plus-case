@@ -6,10 +6,12 @@ This is a simple acrylic lasercut case for the Raspberry Pi Model B+.
 Build Instructions
 ------------------
 
-![raspberrypi-b-plus-case](raspberrypi-b-plus-case.png)
+![raspberrypi-b-plus-case](images/raspberrypi-b-plus-case.png)
 
 green:	vector engraving
+
 black:	raster encraving
+
 red:	cut
 
 Detailed instructions coming soon.
