@@ -10,7 +10,7 @@ Build Instructions
 
     green:	vector engraving
     black:	raster encraving
-    red:	  cut
+    red:	 cut
 
 Detailed instructions coming soon.
 
