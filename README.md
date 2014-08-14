@@ -16,6 +16,13 @@ Build Instructions
 
 Detailed instructions coming soon.
 
+BOM
+---
+
+- 3mm acryl
+- 4x M3 screws
+- 4x M3 screw nuts
+
 Visicut color-mapping
 ---------------------
 
