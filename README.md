@@ -27,7 +27,7 @@ Visicut color-mapping
 ---------------------
 
 If you use Visicut (https://github.com/t-oster/VisiCut) you can find a working color-mapping under 
-![visicut/raspberrypi-b-plus-case.xml](visicut/raspberrypi-b-plus-case.xml)
+[visicut/raspberrypi-b-plus-case.xml](visicut/raspberrypi-b-plus-case.xml)
 
 License
 -------
