@@ -20,8 +20,8 @@ BOM
 ---
 
 - 3mm acryl
-- 4x M3 screws
-- 4x M3 screw nuts
+- 4x M2.5 10mm screws
+- 4x M2.5 screw nuts
 
 Visicut color-mapping
 ---------------------
