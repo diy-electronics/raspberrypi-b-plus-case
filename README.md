@@ -1,7 +1,7 @@
-Raspberry Pi Model B+ Case
-==========================
+Raspberry Pi Model B+ and 2 B Case
+==================================
 
-This is a simple acrylic lasercut case for the Raspberry Pi Model B+.
+This is a simple acrylic lasercut case for the Raspberry Pi Model B+ and 2 B.
 
 ![top](images/top.jpg)
 
